@@ -8,17 +8,19 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 ---
 
 ## 🚀 Tecnologias e Ferramentas  
-- **Linux** (Debian, Ubuntu, CentOS)  
-- **Docker** & Docker Compose  
-- **Git** & GitHub/GitLab  
-- **Zabbix** (Monitoramento de Infraestrutura)  
-- **Redes** (TCP/IP, DNS, VLAN, NAT, VPN)  
-- **Cisco** (Packet Tracer, CCNA - em andamento)  
-- **VMware** & VirtualBox  
-- **EVE-NG** (Laboratórios virtuais)  
-- **Bash Scripting**  
-- **Fortinet** (NSE 1 e 2)  
-- **Cloud** (conceitos iniciais em AWS e Azure)  
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" alt="Debian" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" alt="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Zabbix-AA0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+  <img src="https://img.shields.io/badge/Redes-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Redes" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+</p>
 
 ---
 
@@ -34,14 +36,8 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 
 ## 🌐 Onde me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario-aqui)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario-aqui)
-
----
-
-## 📁 Projetos em destaque
-- 🔧 **Infraestrutura com Docker e Zabbix** – Setup completo de ambiente monitorado com containers.  
-- 🧪 **Lab EVE-NG** – Ambiente de simulação de redes para estudo de protocolos e roteadores.  
-- 🐧 **Scripts Bash para automação de tarefas Linux** – Ferramentas para sysadmins.
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario-aqui)  
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/seu-usuario-aqui)
 
 > Em constante evolução. Buscando oportunidades para contribuir com soluções modernas, seguras e escaláveis.
 
