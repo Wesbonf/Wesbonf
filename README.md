@@ -26,14 +26,13 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 - Infraestrutura como Código com Terraform  
 - Automação com Ansible  
 - Fundamentos de Cibersegurança  
-- Certificação CCNA  
+
 
 ---
 
 ## 🌐 Onde me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario-aqui)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario-aqui)  
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/seu-usuario-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/seu-usuario-aqui](https://www.linkedin.com/in/wesleybonfim/))  
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/user/seu-usuario-aqui](https://open.spotify.com/intl-pt/artist/4i3EtwF4m89bsROLW46nUp?si=cEPuZvsAQ_ebxw0YzMIlow&nd=1&dlsi=9ad0c720d8bf4e7e))
 
 > Em constante evolução. Buscando oportunidades para contribuir com soluções modernas, seguras e escaláveis.
 
