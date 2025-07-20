@@ -1,5 +1,4 @@
 # 👨🏻‍💻 Wesley Bonfim  
-DevOps | Linux | Docker | Git | Zabbix | NOC | Analista de Redes JR
 
 Me chamo Wesley Bonfim, sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Redes de Computadores. Atuo como profissional de TI com foco em infraestrutura, DevOps e operações de rede. Tenho experiência consolidada em suporte técnico e monitoramento de sistemas, trabalhando com grandes organizações como a Oi, o Ministério Público da Bahia (MPBA) e o Banco Rendimento.
 
