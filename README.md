@@ -24,7 +24,7 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 - Kubernetes e orquestração de containers  
 - Infraestrutura como Código com Terraform  
 - Automação com Ansible  
-- Fundamentos de Cibersegurança  
+- Cibersegurança  
 
 
 ---
