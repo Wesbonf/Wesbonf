@@ -35,6 +35,3 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 
 
 <img src="./assets/personagem.gif" alt="Personagem animado" width="250"/>
-
-
----
