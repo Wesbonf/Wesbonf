@@ -32,6 +32,12 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/artist/4i3EtwF4m89bsROLW46nUp?si=cEPuZvsAQ_ebxw0YzMIlow&nd=1&dlsi=9ad0c720d8bf4e7e)
 
 > Em constante evolução. Buscando oportunidades para contribuir com soluções modernas, seguras e escaláveis.
+>
+> # 📘 DevOps Challenges  
+
+Este é um espaço dedicado aos meus **desafios práticos em DevOps**, onde coloco a mão na massa utilizando ferramentas que domino:  
 
 
-<img src="./assets/personagem.gif" alt="Personagem animado" width="250"/>
+Cada desafio conta com documentação, prints e código-fonte para ser reproduzido.  
+
+## 📂 Lista de Desafios  
