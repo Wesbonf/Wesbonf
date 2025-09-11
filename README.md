@@ -27,10 +27,6 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 - Cibersegurança  
 ---
 
-## 🌐 Onde me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wesleybonfim/)  
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/artist/4i3EtwF4m89bsROLW46nUp?si=cEPuZvsAQ_ebxw0YzMIlow&nd=1&dlsi=9ad0c720d8bf4e7e)
-
 > Em constante evolução. Buscando oportunidades para contribuir com soluções modernas, seguras e escaláveis.
 >
 
@@ -47,6 +43,11 @@ Este é um espaço dedicado aos meus **desafios práticos em DevOps**, onde colo
 Cada desafio conta com documentação, prints e código-fonte para ser reproduzido.  
 
 ## 📂 Lista de Desafios  
+
+
+## 🌐 Onde me encontrar  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wesleybonfim/)  
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/artist/4i3EtwF4m89bsROLW46nUp?si=cEPuZvsAQ_ebxw0YzMIlow&nd=1&dlsi=9ad0c720d8bf4e7e)
 
 
 
