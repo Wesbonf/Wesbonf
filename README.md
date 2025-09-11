@@ -27,9 +27,6 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 - Cibersegurança  
 ---
 
-> Em constante evolução. Buscando oportunidades para contribuir com soluções modernas, seguras e escaláveis.
->
-
 > 🌐 Networking & Infrastructure Challenges
 
 - [💻 Laboratório GPO Windows Server](https://github.com/Wesbonf/lab-gpo-windows-server)  
