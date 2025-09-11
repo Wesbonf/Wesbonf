@@ -27,7 +27,7 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 - Cibersegurança  
 ---
 
-> 🌐 Networking & Infrastructure Challenges
+> # 📘 Networking & Infraestructure Challeges
 
 - [💻 Laboratório GPO Windows Server](https://github.com/Wesbonf/lab-gpo-windows-server)  
   Laboratório completo com Active Directory, políticas de grupo, redirecionamento de pastas, perfil móvel e cota de disco.
