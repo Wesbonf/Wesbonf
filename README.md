@@ -21,6 +21,7 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 
 ## 🎯 Atualmente estudando  
 - CI/CD com GitHub Actions e GitLab CI  
+- AWS Cloud Practitioner Essentials
 - Kubernetes e orquestração de containers  
 - Infraestrutura como Código com Terraform  
 - Automação com Ansible  
