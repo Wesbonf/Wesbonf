@@ -28,10 +28,15 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 - Cibersegurança  
 ---
 
-> # 📘 Networking & Infraestructure Challeges
+# 📘 Networking & Infrastructure Challenges
+
+- [📡 Projeto de Cabeamento Estruturado](https://github.com/Wesbonf/projeto-cabeamento-estruturado)  
+  Projeto completo de cabeamento estruturado incluindo link permanente, canais, calhas, racks, organização de cabos, mapas de calor Wi-Fi 2.4 e 5 GHz e campo de visão da rede.  
 
 - [💻 Laboratório GPO Windows Server](https://github.com/Wesbonf/lab-gpo-windows-server)  
   Laboratório completo com Active Directory, políticas de grupo, redirecionamento de pastas, perfil móvel e cota de disco.
+
+
 
 > # 📘 DevOps Challenges  
 
