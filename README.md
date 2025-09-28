@@ -36,6 +36,9 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 - [💻 Laboratório GPO Windows Server](https://github.com/Wesbonf/lab-gpo-windows-server)  
   Laboratório completo com Active Directory, políticas de grupo, redirecionamento de pastas, perfil móvel e cota de disco.
 
+- [🖥️ Windows Server 2025 – Network Lab](https://github.com/Wesbonf/winserver2025-network-lab)  
+  Instalação e configuração completa de um ambiente de rede com Windows Server 2025: DHCP, DNS.
+
 
 
 > # 📘 DevOps Challenges  
