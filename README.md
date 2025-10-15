@@ -46,8 +46,6 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 - [🖥️ Windows Server 2025 – Network Lab](https://github.com/Wesbonf/winserver2025-network-lab)  
   Instalação e configuração completa de um ambiente de rede com Windows Server 2025: DHCP, DNS.
 
-  https://github.com/Wesbonf/gcp-cloud-storage-sql-lab/tree/main
-
 
 
 > # 📘 DevOps Challenges  
