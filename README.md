@@ -27,8 +27,11 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 - Automação com Ansible  
 - Cibersegurança  
 ---
-- [☁️ Google Cloud Platform (GCP)](https://github.com/Wesbonf/gcp-cloud-storage-sql-lab) Laboratório com Cloud Storage, Cloud SQL e Compute Engine integrados em uma aplicação PHP funcional na nuvem.
 
+# ☁️ Google Cloud Platform (GCP)
+
+- [🗄️ Cloud Storage, Cloud SQL e Compute Engine](https://github.com/Wesbonf/gcp-cloud-storage-sql-lab)  
+  Laboratório integrando armazenamento, banco de dados e instância de computação em uma aplicação PHP funcional na nuvem.
 ---
 # 📘 Networking & Infrastructure Challenges
 
