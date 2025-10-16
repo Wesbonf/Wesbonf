@@ -22,6 +22,10 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 ## 🎯 Atualmente estudando  
 - CI/CD com GitHub Actions. 
 - AWS Cloud Practitioner Essentials.
+- Redes de computadores (SENAI)
+- GitHub Foundations (Certificação)
+- Amazon AWS Cloud Practitioner
+  
 
 ## Próximos estudos
 - Kubernetes e orquestração de containers  
