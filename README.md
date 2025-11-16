@@ -16,6 +16,14 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
   <img src="https://img.shields.io/badge/Zabbix-AA0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
   <img src="https://img.shields.io/badge/Redes-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Redes" />
 </p>
+---
+## 🤖 Inteligências Artificiais  
+
+<p>
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" alt="ChatGPT" />
+</p>
 
 ---
 
