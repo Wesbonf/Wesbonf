@@ -60,7 +60,9 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 
 > # 📘 DevOps Challenges  
 
-Este é um espaço dedicado aos meus **desafios práticos em DevOps**, onde coloco a mão na massa utilizando ferramentas que domino:  
+- [💻 Automação Linux DevOps](https://github.com/Wesbonf/automacao-linux-devops)  
+  Repositório com scripts de automação Linux para tarefas comuns, incluindo atualização do sistema, coleta de informações e backup de arquivos. Projetado como projeto de portfólio para demonstrar habilidades básicas em DevOps, uso de scripts Bash e práticas de automação seguras em ambientes isolados como Docker.
+
 
 
 Cada desafio conta com documentação, prints e código-fonte para ser reproduzido.  
