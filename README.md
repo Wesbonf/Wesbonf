@@ -44,9 +44,6 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 
 
 
-  https://github.com/Wesbonf/aws-ebs-storage-hands-on
-
-
 # ☁️ Google Cloud Platform (GCP)
 
 - [🗄️ Cloud Storage, Cloud SQL e Compute Engine](https://github.com/Wesbonf/gcp-cloud-storage-sql-lab)  
