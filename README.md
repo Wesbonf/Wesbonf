@@ -38,6 +38,13 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 
 - [🌐 VPC e Servidor Web com EC2](https://github.com/Wesbonf/aws-lab-vpc-webserver)  
   Laboratório de infraestrutura na AWS, com criação de VPC personalizada, sub-redes públicas e privadas, NAT Gateway, grupos de segurança e implantação de um servidor web Apache em instância EC2.
+  
+- [💾 Trabalhando com Amazon EBS](https://github.com/Wesbonf/aws-ebs-storage-hands-on)  
+  Laboratório sobre criação, montagem e gerenciamento de volumes EBS em instâncias EC2, incluindo formatação, uso de snapshots e restauração de dados.
+
+
+
+  https://github.com/Wesbonf/aws-ebs-storage-hands-on
 
 
 # ☁️ Google Cloud Platform (GCP)
