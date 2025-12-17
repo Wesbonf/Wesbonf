@@ -42,6 +42,9 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 - [💾 Trabalhando com Amazon EBS](https://github.com/Wesbonf/aws-ebs-storage-hands-on)  
   Laboratório sobre criação, montagem e gerenciamento de volumes EBS em instâncias EC2, incluindo formatação, uso de snapshots e restauração de dados.
 
+- [🗄️ Amazon RDS Multi-AZ com MySQL e EC2](https://github.com/Wesbonf/AWS-RDS-Multi-AZ-com-MySQL-integrado-a-aplica-o-Web-em-EC2)  
+  Laboratório prático na AWS com criação de instância Amazon RDS MySQL em implantação Multi-AZ, configuração de grupos de segurança e sub-redes em VPC, e integração com uma aplicação web hospedada em EC2, permitindo operações CRUD com alta disponibilidade e tolerância a falhas.
+
 
 
 # ☁️ Google Cloud Platform (GCP)
