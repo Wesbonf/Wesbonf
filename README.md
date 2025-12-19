@@ -44,6 +44,10 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 
 - [🗄️ Amazon RDS Multi-AZ com MySQL e EC2](https://github.com/Wesbonf/AWS-RDS-Multi-AZ-com-MySQL-integrado-a-aplica-o-Web-em-EC2)  
   Laboratório prático na AWS com criação de instância Amazon RDS MySQL em implantação Multi-AZ, configuração de grupos de segurança e sub-redes em VPC, e integração com uma aplicação web hospedada em EC2, permitindo operações CRUD com alta disponibilidade e tolerância a falhas.
+  
+  - [⚖️ Elastic Load Balancing e Auto Scaling na AWS](https://github.com/Wesbonf/aws-elb-auto-scaling)  
+  Laboratório prático na AWS com uso de Application Load Balancer e Auto Scaling para distribuir tráfego e escalar automaticamente instâncias EC2 conforme a demanda.
+
 
 
 
