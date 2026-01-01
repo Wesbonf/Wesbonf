@@ -75,6 +75,18 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 - [💻 Automação Linux DevOps](https://github.com/Wesbonf/automacao-linux-devops)  
   Repositório com scripts de automação Linux para tarefas comuns, incluindo atualização do sistema, coleta de informações e backup de arquivos. Projetado como projeto de portfólio para demonstrar habilidades básicas em DevOps, uso de scripts Bash e práticas de automação seguras em ambientes isolados como Docker.
 
+ > # 🐍 Python Studies
+
+- [📘 Python – Do Básico ao Avançado](https://github.com/Wesbonf/PythonStudies)  
+  Exercícios práticos de Python organizados por capítulos e conceitos, com foco no aprendizado progressivo da linguagem e na lógica de programação.
+
+
+
+
+
+
+
+
 
 
 Cada desafio conta com documentação, prints e código-fonte para ser reproduzido.  
