@@ -9,12 +9,13 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 ## 🚀 Tecnologias e Ferramentas  
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://img.shields.io/badge/Redes-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Redes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Zabbix-AA0000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
-  <img src="https://img.shields.io/badge/Redes-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Redes" />
 </p>
 
 ---
