@@ -35,6 +35,8 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 - Cibersegurança  
 ---
 
+- [☁️ Hybrid Cloud](https://github.com/CloudHybridSWE/-hybridcloud)
+
 # ☁️ Amazon Web Services (AWS)
 
 - [🌐 VPC e Servidor Web com EC2](https://github.com/Wesbonf/aws-lab-vpc-webserver)  
