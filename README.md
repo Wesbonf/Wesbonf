@@ -51,7 +51,7 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 - [⚖️ Elastic Load Balancing e Auto Scaling na AWS](https://github.com/Wesbonf/aws-elb-auto-scaling)  
   Laboratório prático na AWS com uso de Application Load Balancer e Auto Scaling para distribuir tráfego e escalar automaticamente instâncias EC2 conforme a demanda.
 
-- - [☁️ Infraestrutura Híbrida com AWS e Windows Server](https://github.com/CloudHybridSWE/-hybridcloud)  
+- [☁️ Infraestrutura Híbrida com AWS e Windows Server](https://github.com/CloudHybridSWE/-hybridcloud)  
   Projeto de infraestrutura híbrida com Active Directory, VLANs, VPN Site-to-Site e backup automatizado no Amazon S3.
 
 
