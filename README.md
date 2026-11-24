@@ -36,6 +36,7 @@ Minha trajetória envolve diagnósticos precisos, resolução de incidentes e ma
 ---
 
 - [☁️ Hybrid Cloud](https://github.com/CloudHybridSWE/-hybridcloud)
+   Projeto de infraestrutura híbrida integrando ambiente on-premises com AWS, incluindo implementação de Active Directory, DHCP, segmentação de rede por VLANs, virtualização com Hypervisor, VPN Site-to-Site (IPsec)     e automação de backups criptografados no Amazon S3 utilizando PowerShell e AWS CLI.
 
 # ☁️ Amazon Web Services (AWS)
 
